@@ -1,5 +1,4 @@
 # Street-Fighter-2-PC-SFIBM-
-============================
 ## SFIBM DOS fighting game ported to modern PCs!
 
 
