@@ -1,0 +1,15 @@
+void pSprCp(ui sseg,ui soff,ui scs,ui xs,ui ys,ui dseg,ui doff, ui dcs)
+{
+
+   uint var0 = sseg;
+   uint var1 = var0; //ds = sseg
+   uint var2 = dseg;
+   uint var3 = var2; //es = dseg
+
+   uint var4 = soff;
+
+   uint var5 = 3c4h; //dx = 3c4h
+   uint var6 = 2; //al = 2
+
+
+}
